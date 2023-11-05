@@ -5,8 +5,8 @@ type = "cv"
 weight = 10
 +++
 
-Here will be my CV
+Download my CV here:
 
-![about](../images/mac.jpg)
+[Link to pdf](../pdf/Dittrich_cv.pdf)
 
 
