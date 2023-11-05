@@ -1,0 +1,9 @@
+<div class="row">
+  {{ range where .Data.Pages "Section" .Section }}
+    <!-- Apply the text-center class to the column div to center all text inside it -->
+    <div class="col-sm-6 col-md-4 text-center">
+      <h3>{{ .Title }}</h3>
+      <p>{{ .Summary }}</p>
+    </div>
+  {{ end }}
+</div>

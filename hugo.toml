@@ -1,0 +1,81 @@
+baseURL = "http://www.dittrichkatja.com/"
+languageCode = "en"
+title = "Katja Dittrich"
+theme = "hugo-initio"
+
+[params]
+    name = "Katja Dittrich"
+    description = "Psychologist | Researcher | Data Scientist"
+    year = 2023
+    avatar = "images/headshot.jpg"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/backgr.jpg"
+    favicon = "images/favicon.png"
+    DateForm = "January 2, 2006"
+    author = "Sergey Pozhilov (GetTemplate.com)"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = false
+    showDownloads = false
+    showClients = false
+
+    showFooterContact = false
+    showFooterFollowMe = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "Psychology"
+    url = "/psychology/"
+    weight = 2
+[[menu.main]]
+    name = "Data Projects"
+    url = "/data/"
+    weight = 3
+[[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 4
+[[menu.main]]
+    name = "CV"
+    url = "/cv/"
+    weight = 5
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+	title = "researchgate"
+	url = "https://www.researchgate.net/profile/Katja-Dittrich"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/katja-dittrich-052777137/"
+    icon = "fab fa-linkedin"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/coztomate"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+
