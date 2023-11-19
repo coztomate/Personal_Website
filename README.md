@@ -1,4 +1,4 @@
-# Katja Dittrich's Personal Website
+# Personal Website
 
 ## Overview
 This repository contains the source code for [my personal website](http://www.dittrichkatja.com), a static site built with Hugo. The website showcases my professional portfolio, personal projects, and other information. It's based on the [Hugo Initio template](https://www.gettemplate.com/), which has been customized to fit my personal style and content needs. 
