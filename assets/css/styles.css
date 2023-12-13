@@ -7,6 +7,7 @@ body {
   font-family: "Open sans", Helvetica, Arial, sans-serif;
   color: #666666;
   padding: 0;
+  text-align: justify;
 }
 .topspace {
   margin-top: 40px;
@@ -165,7 +166,7 @@ h6,
 .h6 {
   font-family: "Open sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #6d6d6d;
+  color: #9e9e9e;
 }
 h1 {
   font-size: 40px;
@@ -526,7 +527,7 @@ img {
   width: 100%;
   overflow: hidden;
   margin: 0px 0 25px;
-  text-align: center;
+  text-align: left;
   font-weight: 300;
   text-transform: uppercase;
   font-size: 36px;
@@ -565,7 +566,7 @@ img {
   margin-left: 45px;
 }
 .entry-header .entry-meta {
-  text-align: center;
+  text-align: center;  #date above blog
   font-family: Georgia, serif;
   font-size: 18px;
   font-size: 1.125rem;
@@ -579,6 +580,7 @@ img {
 }
 .entry-content {
   margin: 0 0 60px 0;
+  text-align: justify;
 }
 .entry-content h2 {
   line-height: 1.2;
@@ -663,7 +665,7 @@ footer.entry-meta .meta-in {
   padding-bottom: 0;
   margin: 0;
   border-bottom: none;
-  text-align: left;
+  text-align: center;
 }
 .page-header .page-title {
   margin-top: 0;

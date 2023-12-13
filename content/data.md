@@ -1,19 +1,20 @@
 +++
 menu = "data"
-title = "Data Projects"
+title = "Data Science & Projects"
 type = "data"
-weight = 9
+weight = 5
 +++
 
-Here you find a sample of personal data projects. Stay tuned for more to come!
+As a data scientist, I have experience in processing, analyzing, and interpreting both structured and unstructured data. My expertise extends to utilizing statistical and machine learning techniques to develop reliable predictive models and deploying these models into production. Below is a portfolio of data projects from my education and personal ventures. More updates are coming!
 
 #### Pixel Diagnose: Similarity Search for Brain Tumor Diagnoses
 
-This is the final project of my data science education, an innovative application specifically designed for radiologists. It allows them to upload an MRI image of a brain tumor and view the most visually similar images from a variety of tumor diagnoses. This feature helps radiologists in making more accurate differential diagnoses. We utilized online datasets of brain tumor patients, which required extraction and preprocessing from extensive databases. Our process began with experimenting with various pre-trained models, and then we developed our own Convolutional Neural Network (CNN) from scratch, incorporating triplet loss. We used this model to generate vector embeddings that are stored in our Qdrant vector database. The application creates vector embeddings from the input images and performs a similarity search in the Qdrant database to identify the most similar images. These images are retrieved from our cloud storage and displayed in the app, which is designed to run locally.<br><br> (Full article coming soon) [See on Github](https://github.com/pixel-diagnose/pixel-diagnose) 
+This is the final project of my data science education, an innovative application specifically designed for radiologists. It allows them to upload an MRI image of a brain tumor and view the most visually similar images from a variety of tumor diagnoses. This feature helps radiologists in making more accurate differential diagnoses. We utilized online datasets of brain tumor patients, which required extraction and preprocessing from extensive databases. Our process began with experimenting with various pre-trained models, and then we developed our own Convolutional Neural Network (CNN) from scratch, incorporating triplet loss. We used this model to generate vector embeddings that are stored in our Qdrant vector database. The application creates vector embeddings from the input images and performs a similarity search in the Qdrant database to identify the most similar images. These images are retrieved from our cloud storage and displayed in the app, which is designed to run locally.<br><br> (Full article coming soon) [See on Github and download Docker image for Demo](https://github.com/pixel-diagnose/pixel-diagnose) 
 
-![data](../images/pixeldiagnose.png)
+![data](../images/PixelDiagnose_demo.png)
  
  <p><p>
+
 
 
 
@@ -27,6 +28,7 @@ This is the final project of my data science education, an innovative applicatio
 
 
 
+
 #### Predicting Earthquake Building Damage
 
 Here, I joined my first data science competition and we scored within the highest 5% of all contestants online, using XGBoost and Optuna for hyperparameter tuning. The competition’s primary objective was to use data related to building location and construction to forecast the extent of damage inflicted by the earthquake. The dataset provided for the competition was a comprehensive collection derived from surveys conducted by Kathmandu Living Labs and the Central Bureau of Statistics.
@@ -34,4 +36,4 @@ Here, I joined my first data science competition and we scored within the highes
 [Read the full story](../competition/) or
 [See on Github](https://github.com/coztomate/Earthquake_Damage)
 
-![data](../images/nepal.png)
+![data](../images/features.png)

@@ -4,16 +4,16 @@ title = "Katja Dittrich"
 theme = "hugo-initio"
 
 [params]
-    name = "Katja Dittrich"
-    description = "Psychologist | Researcher | Data Scientist"
+    name = "Dr. Katja Dittrich"
+    description = "Data Scientist | Psychologist"
     year = 2023
-    avatar = "images/headshot.jpg"
+    avatar = "images/headshot_1.jpg"
     avatarclass = "circle"
     background = ""
     banner = "images/backgr.jpg"
     favicon = "images/favicon.png"
     DateForm = "January 2, 2006"
-    author = "Sergey Pozhilov (GetTemplate.com)"
+    author = "Katja Dittrich"
 
     showSubheader = true
     showServices = true
@@ -35,16 +35,12 @@ theme = "hugo-initio"
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "Psychology"
-    url = "/psychology/"
-    weight = 2
-[[menu.main]]
-    name = "Data Projects"
+    name = "Data Science & Projects"
     url = "/data/"
     weight = 3
 [[menu.main]]
-    name = "Publications"
-    url = "/publications/"
+    name = "Psychology & Publications"
+    url = "/psychology/"
     weight = 4
 [[menu.main]]
     name = "CV"

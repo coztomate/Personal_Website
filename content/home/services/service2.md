@@ -1,6 +1,6 @@
 +++
 title = "Research"
-weight = 2
+weight = 3
 +++
 
-I am a researcher for clinical psychology. I did my Phd (Dr.rer.nat.) on the intergenerational transmission of trauma and psychopathology.
+I have several years of experience in quantitative psychological research. My doctoral studies (Dr.rer.nat.) focused on the intergenerational transmission of trauma and psychopathology, during which I also guided mentees on their academic and research journeys.

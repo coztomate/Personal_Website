@@ -2,10 +2,14 @@
 menu = "main"
 title = "About"
 type = "about"
-weight = 10
+weight = 4
 +++
 
-I am a senior researcher in the field of clinical psychology. I am trained in R and SPSS for data handling, visualization, and modelling and currently diving deeper into Python/SQL/Git for data analysis, handling, and version control. Due to my background as a psychologist and psychotherapist I have strong communication skills and understanding of human behavior behind the data. Data becomes powerful when analyzed thoughtfully using the right techniques and communicated in comprehensive way. My experience in teaching, publication and presentation of data has taught me to effectively explain insights to a technical and non-technical audience. Due to my experience in supervision, project management, and psychotherapy I know to support people and groups in their personal and professional development. Being always eager about my own learning and development, my passion about data now leads me to focus on more data centered roles.
+As a data scientist with a background in psychology and quantitative analysis, I bring a unique perspective to the field. My expertise includes processing, analyzing, and interpreting both structured and unstructured data using statistical and machine learning techniques to produce reliable predictions. I am skilled in deploying models into production environments, a critical step in turning theoretical models into practical tools. My experience in research, mentoring, and disseminating results has equipped me with the ability to effectively communicate complex data insights to both technical and non-technical audiences.
+[See Data Science projects](../data/)
+
+My background in psychology and psychotherapy has also endowed me with strong communication skills and an understanding of the human behavior that often underlies data patterns. This combination of technical expertise and interpersonal abilities enables me to deliver comprehensive data science solutions that are grounded in both technical rigor and a profound understanding of human factors.
+[See psychological publications](../psychology/)
 
 
 
