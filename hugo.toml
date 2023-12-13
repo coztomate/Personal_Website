@@ -52,7 +52,7 @@ theme = "hugo-initio"
     custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = "G-X1LF198MCX"
 
 [[params.social]]
 	title = "researchgate"
