@@ -70,7 +70,7 @@ We also analyzed feature importance, identifying and retaining only influential 
 A notable feature of random forest classifier models, including XGBoost, is the ability to extract insights into feature importance for making predictions. Our analysis showed that the foundation type emerged as the most important predictor. However, due to the simple letter encoding ('r,' 'w,' 'i,' 'u,' 'h') employed for these variables, we cannot draw conclusions from it.
 Among the other significant predictors, the type of superstructure, including mud, mortar, stone, and cement, as well as the composition of mortar and brick, also emerged as influential features. Additionally, the geographic location represented by the geo-level id played a pivotal role in the model's predictive accuracy, suggesting that buildings located in close proximity to the earthquake's epicenter were more susceptible to significant damage.
 
-![FeatureImportance](../Competition/features.png)
+![FeatureImportance](../Competition/feature_importance.png)
 
 #### Conclusion: What did we take away?
  

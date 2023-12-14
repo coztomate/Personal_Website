@@ -12,6 +12,7 @@ As a data scientist, I have experience in processing, analyzing, and interpretin
 This is the final project of my data science education, an innovative application specifically designed for radiologists. It allows them to upload an MRI image of a brain tumor and view the most visually similar images from a variety of tumor diagnoses. This feature helps radiologists in making more accurate differential diagnoses. We utilized online datasets of brain tumor patients, which required extraction and preprocessing from extensive databases. Our process began with experimenting with various pre-trained models, and then we developed our own Convolutional Neural Network (CNN) from scratch, incorporating triplet loss. We used this model to generate vector embeddings that are stored in our Qdrant vector database. The application creates vector embeddings from the input images and performs a similarity search in the Qdrant database to identify the most similar images. These images are retrieved from our cloud storage and displayed in the app, which is designed to run locally.<br><br> (Full article coming soon) [See on Github and download Docker image for Demo](https://github.com/pixel-diagnose/pixel-diagnose) 
 
 ![data](../images/PixelDiagnose_demo.png)
+
  
  <p><p>
 
@@ -24,6 +25,8 @@ This is the final project of my data science education, an innovative applicatio
 
 ![data](../images/artspeak.png)
 
+![data](../images/artspeak_output.png)
+
 <p><p>
 
 
@@ -31,9 +34,9 @@ This is the final project of my data science education, an innovative applicatio
 
 #### Predicting Earthquake Building Damage
 
-Here, I joined my first data science competition and we scored within the highest 5% of all contestants online, using XGBoost and Optuna for hyperparameter tuning. The competition’s primary objective was to use data related to building location and construction to forecast the extent of damage inflicted by the earthquake. The dataset provided for the competition was a comprehensive collection derived from surveys conducted by Kathmandu Living Labs and the Central Bureau of Statistics.
+Here, I joined my first data science competition and we scored within the highest 5% of all contestants online, using XGBoost and Optuna for hyperparameter tuning. The competition’s primary objective was to use data related to building location and construction to forecast the extent of damage inflicted by the earthquake. The dataset provided for the competition was a comprehensive collection derived from surveys conducted by Kathmandu Living Labs and the Central Bureau of Statistics. Besides the classification task, we also delved into feature importance analysis. Although we did not have complete details about the meanings of all features (e.g., geolevel IDs), this analysis still yielded intriguing insights into the topic of earthquake damage.
 <br><br>
 [Read the full story](../competition/) or
 [See on Github](https://github.com/coztomate/Earthquake_Damage)
 
-![data](../images/features.png)
+![FeatureImportance](../Competition/feature_importance.png)
