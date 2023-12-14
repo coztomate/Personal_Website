@@ -166,11 +166,13 @@ h6,
 .h6 {
   font-family: "Open sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #9e9e9e;
+  color: #2e2e2e; /* color of name on top and main headings */
 }
 h1 {
   font-size: 40px;
   font-size: 2.5rem;
+  color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(108, 108, 108, 0.882); /*  shadow */
 }
 h2 {
   font-size: 36px;
@@ -264,8 +266,9 @@ a:hover {
   font-size: 14px;
   font-size: 0.875rem;
   line-height: 1.2em;
-  color: #d4d2d2;
+  color: #f2f2f2;    /* #color of tagline: "data scientist Psychologist" */
   margin: 5px 0 0;
+  text-shadow: 2px 2px 4px rgba(19, 19, 19, 0.806);
 }
 #head .tagline b {
   font-weight: normal;
