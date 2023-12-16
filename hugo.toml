@@ -55,8 +55,9 @@ theme = "hugo-initio"
     trackerID = "G-X1LF198MCX"
 
 [[params.social]]
-	title = "researchgate"
-	url = "https://www.researchgate.net/profile/Katja-Dittrich"
+	title = "github"
+	url = "https://github.com/coztomate"
+    icon = "fab fa-github"
     footer = true
     sharethis = false
     network = ""
@@ -66,12 +67,14 @@ theme = "hugo-initio"
     icon = "fab fa-linkedin"
     footer = true
     sharethis = true
-    network = "linkedin"
+    network = "linkedin"    
 [[params.social]]
-	title = "github"
-	url = "https://github.com/coztomate"
-    icon = "fab fa-github"
+	title = "researchgate"
+	url = "https://www.researchgate.net/profile/Katja-Dittrich"
+    icon = "fab fa-researchgate"
     footer = true
     sharethis = false
     network = ""
+
+
 
