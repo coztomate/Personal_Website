@@ -3,6 +3,7 @@ menu = "data"
 title = "Data Science & Projects"
 type = "data"
 weight = 5
+metaDescription = "Learn about data science projects showcasing machine learning, random forests, deep learning."
 +++
 
 As a data scientist, I have experience in processing, analyzing, and interpreting both structured and unstructured data. My expertise extends to utilizing statistical and machine learning techniques to develop reliable predictive models and deploying these models into production. Below is a portfolio of data projects from my education and personal ventures. More updates are coming!

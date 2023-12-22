@@ -3,6 +3,7 @@ menu = "main"
 title = "Psychology & Publications"
 type = "psychology"
 weight = 9
+metaDesription = "Read about my background in clinical psychology, my work in research and as a psychotherapist."
 +++
 
 #### Psychological Research and Psychotherapy

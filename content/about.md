@@ -3,6 +3,7 @@ menu = "main"
 title = "About"
 type = "about"
 weight = 4
+metaDescription = "Explore a Berlin-based data scientist's portfolio with a twist in psychology. Delve into projects showcasing machine learning, deep learning, and a rich background in psychological research. Find publications and innovative applications of data science."
 +++
 
 As a data scientist with a background in psychology and quantitative analysis, I bring a unique perspective to the field. My expertise includes processing, analyzing, and interpreting both structured and unstructured data using statistical and machine learning techniques to produce reliable predictions. I am skilled in deploying models into production environments, a critical step in turning theoretical models into practical tools. My experience in research, mentoring, and disseminating results has equipped me with the ability to effectively communicate complex data insights to both technical and non-technical audiences.

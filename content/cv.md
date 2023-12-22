@@ -3,6 +3,7 @@ menu = "main"
 title = "CV"
 type = "cv"
 weight = 10
+metaDescription = "Learn about my path from psychology to Data Science."
 +++
 
 

@@ -1,4 +1,5 @@
 +++
+metaDescription = "Learn about how we solved the Richter's Predictor: Modeling Earthquake Damage competition from Driven Data using Optuna and XGBoost"
 date = "2023-10-31T12:00:00-00:00"
 +++
 
