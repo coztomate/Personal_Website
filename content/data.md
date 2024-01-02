@@ -24,13 +24,13 @@ This is the final project of my data science education, an innovative applicatio
 
  In this project, we explore International Art English (IAE), commonly known as 'artspeak.' IAE, a distinct form of English prevalent in the contemporary art world, is characterized by its specialized vocabulary and complex structures. It has sparked significant debate regarding its accessibility and impact on art communication.
 Our application, hosted on HuggingFace Spaces, adopts a playful and humorous approach to this subject. Users can upload press text and an accompanying image from a contemporary art exhibition. The app "simplifies" both the text and the image into a concise sentence each. These simplifications serve as a foundation to generate new, intricate press texts in authentic IAE style. Furthermore, the app creates four unique contemporary art images based on these simplifications and the newly formed texts. 
-Developed within a very limited timeframe, this project leverages the remarkable capabilities of HuggingFace and OpenAI APIs. We utilized BLIP for image captioning, Stable Diffusion for image generation, a fine-tuned T5 model for text simplification, and the OpenAI API (GPT-3.5 Turbo) for crafting new press texts. This selection followed extensive experimentation with various models that required GPU resources, but our goal was functionality on CPU platforms. Embracing the complexity of various models, instead of simply relying solely on OpenAI's API, not only mirrored the beautiful intricacy of artspeak but also added a rich layer of diversity to our project's technical canvas.
-This project is ever-evolving, and we invite you to experience it. Check out the app [here](https://huggingface.co/spaces/coztomate/artspeak_reloaded) and visit our [GitHub page](https://github.com/coztomate/artspeaksimplifier) for more details. Stay tuned for an upcoming article that will provide deeper insights into our journey.
+Developed within a very limited timeframe, this project leverages the remarkable capabilities of HuggingFace and OpenAI APIs. We utilized BLIP for image captioning, a Stable Diffusion model for image generation, a fine-tuned T5 model for text simplification, and the user can chose between Mistral 8x7B and GPT-3.5 Turbo for crafting new press texts. This selection followed extensive experimentation with various models that required GPU resources, but our goal was functionality on CPU platforms. Embracing the complexity of various models, instead of simply relying solely on OpenAI's API, not only mirrored the beautiful intricacy of artspeak but also added a rich layer of diversity to our project's technical canvas.
+This project is ever-evolving, and we invite you to experience it. Visit the [GitHub page](https://github.com/coztomate/artspeaksimplifier) for more details. Stay tuned for an upcoming article that will provide deeper insights.
  
 
-![data](../images/artspeak.png)
+![data](../images/top.png)
 
-![data](../images/artspeak_output.png)
+![data](../images/presstexts.png)
 
 <p><p>
 
