@@ -6,7 +6,7 @@ theme = "hugo-initio"
 [params]
     name = "Dr. Katja Dittrich"
     description = "Data Scientist | Psychologist"
-    year = 2023
+    year = 2024
     avatar = "images/headshot_1.jpg"
     avatarclass = "circle"
     background = ""
