@@ -28,7 +28,7 @@ For our project, we utilized the following models:
 
 ![data](../images/top.png)
 
-![data](../images/presstexts.png)
+![data](../Artspeak/presstexts.png)
 
 
 #### Could it have been even simpler and quicker?
