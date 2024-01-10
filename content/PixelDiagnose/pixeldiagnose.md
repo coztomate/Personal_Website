@@ -23,6 +23,11 @@ To manage this considerable data volume, we used Google Cloud Storage. Google Co
 
 MRI scan files present unique challenges as they are not standard 2D images but rather 3D representations with an additional dimension of modality. These modalities include a) native (T1), b) post-contrast T1-weighted (T1Gd), c) T2-weighted (T2), and d) T2 Fluid Attenuated Inversion Recovery (T2-FLAIR). The BraTS scans are provided in NIfTI format (.nii.gz), a prevalent format in MRI imaging. For each patient, the dataset includes a 3D segmentation mask of the tumor in NIfTI format. We employed the ‘nibabel’ Python library to read and transform these files into numpy arrays. Our initial approach involved creating embeddings from the slice of the 3D image that depicted the largest section of the tumor. We extracted this specific slice in two variants: one showcasing the entire slice and another displaying only the segmented tumor with and without a boxed cut-out. This dual approach was adopted to determine which method would yield the most effective results for our similarity search.
 
+Extracted Slices from MRI Scans:
+
+![slices](../PixelDiagnose/slices.png)
+
+
 ## Model Selection, Exploration, and Evaluation in Pixel Diagnose
 
 In the context of our project, 'similarity' is a multifaceted concept, encompassing aspects such as tumor size, location, and shape. Our primary objective extended beyond merely classifying the type of tumor in the query image or identifying the most similar images. We aimed to present a diverse range of images for each diagnosis. To achieve this, we wanted vector embeddings for the same diagnoses clustered closely in the latent vector space. For a more interpretable analysis, we utilized t-SNE for dimension reduction, aiding in the visual representation and evaluation of our model embeddings (refer to accompanying images).
