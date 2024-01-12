@@ -17,6 +17,8 @@ This project investigates International Art English (IAE), a distinctive form of
 
 The [Hugging Face Inference API](https://huggingface.co/docs/api-inference/index) provides a versatile way to deploy machine learning models quickly and effectively, bypassing the need to establish a machine learning environment from the ground up. It serves as a conduit, enabling users to interact with pre-trained models hosted on Hugging Face via simple HTTP requests. The API facilitates fast prototyping, offering access to a variety of models, and is user-friendly. It empowers developers to rapidly prototype AI-based applications by providing access to a wide array of pre-trained models. This is especially beneficial for startups or projects with tight deadlines that need to showcase capabilities without significant initial investment. The API offers models for a variety of tasks including text classification, question answering, sentiment analysis, summarization, translation, and more, making it a versatile tool for many applications in Natural Language Processing and computer vision. It simplifies the complexities involved in deploying machine learning models, allowing users to focus on integrating these models' capabilities into their applications. The first step is selecting a model from the Model Hub, with recommended models available for each task.
 
+![data](../images/top.png)
+
 #### What models did we use?
 
 For our project, we utilized the following models:
@@ -26,9 +28,8 @@ For our project, we utilized the following models:
 - To generate new press texts, users can choose between [Mixtral 8x7B](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) and [GPT-3.5 Turbo](https://platform.openai.com/docs/introduction). These large language models are prompted to create detailed new press texts, contextualizing the art in societal topics using the short summaries from the text and image. While GPT requires an API key from the user (to pay for the tokens), Mistral is available free via the inference API. We included both to compare their performance on this task. Mistral 8x7B stands out as an exceptional open-weights model, offering performance comparable to or surpassing that of GPT-3.5 and Llama 2 70B on most benchmarks, while offering faster inference.
 - For image generation, we used [Stable Diffusion v1-4 from CompVis](https://huggingface.co/CompVis/stable-diffusion-v1-4), a latent text-to-image diffusion model capable of generating photo-realistic images based on any text input.
 
-![data](../images/top.png)
 
-![data](../Artspeak/presstexts.png)
+![data](../Artspeak/presstext_gen.png)
 
 
 #### Could it have been even simpler and quicker?
