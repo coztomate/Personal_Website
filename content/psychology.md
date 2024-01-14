@@ -8,7 +8,7 @@ metaDesription = "Read about my background in clinical psychology, my work in re
 
 #### Psychological Research and Psychotherapy
 
-I have spent several years in quantitative psychological research, which has provided me with a comprehensive skill set and a distinctive perspective on statistical methods and data analysis. My interests cover a broad range of topics within psychology, previously with a focus on clinical psychology for both adults and children. The focus of my doctoral research was the intergenerational effects of trauma and mental disorders. In my practice as a psychotherapist, I have utilized cognitive behavioral therapy with individuals and groups, always ensuring alignment with the latest research. This combination of research and therapeutic practice has equipped me to approach challenges from varied angles. In mentoring roles, I have stressed the importance of a solid methodological base to guide research endeavors.
+I have over 10 years experience in quantitative research, which has provided me with a comprehensive skill set and a distinctive perspective on statistical methods and data analysis. My interests cover a broad range of topics within psychology, previously with a focus on clinical psychology for both adults and children. The focus of my doctoral research was the intergenerational effects of trauma and mental disorders. I reviewed articles for numerous scientific journals. In my practice as a psychotherapist, I have utilized cognitive behavioral therapy with individuals and groups to help people attain their goals, always ensuring alignment with the latest research. This combination of research and therapeutic practice has equipped me to approach challenges from varied angles. In mentoring roles, I have stressed the importance of a solid methodological base to guide research endeavors.
 
 
 #### Peer-reviewed Publications
@@ -99,3 +99,9 @@ See also:
 6.	Dittrich K, Fuchs A, Boedeker K, Meyer J, Jaite C, Kluczniok D, Fuehrer D, Hindi Attar C, Bierbaum AL, Bermpohl F, Winter S, Herpertz S, Moehler E, Kaess M, Brunner R, Resch F. Transgenerationale Übertragung: Kindliche Lebensqualität bei elterlicher Traumatisierung. Forschungstagung der DGKJP: Frankfurt, Germany, February 18-19, 2016.
 
 7.	Dittrich K, Fuehrer D, Bermpohl F, Kluczniok D, Hindi Attar C, Fuchs A, Reck C, Lehmkuhl U, Herpertz SC, Brunner R, Boedeker K. The impact of stress on Emotional Avilability – a study of situational effects on mother- child interaction. Congress of the German Association for Psychiatry, Psychotherapy and Psychosomatics: Berlin, Germany, November 26-29, 2014.
+
+#### Reviewer for Scientific Journals
+
+Psychological Medicine, Frontiers Psychiatry, European Child & Adolescent Psychiatry, Psychiatry Research, Current Psychology, Psychopathology, Psychotherapeut
+
+
