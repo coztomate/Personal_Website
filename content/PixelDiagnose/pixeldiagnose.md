@@ -7,6 +7,8 @@ date = "2024-01-09T12:00:00-00:00"
 ##### Enhancing Brain Tumor Diagnosis through Similarity Search
 <br><br>
 
+*Directly to [GitHub](https://github.com/pixel-diagnose)*
+
 #### Motivation
 
 Radiologists are faced with critical decisions daily. When examining an MRI image, they must discern whether a visible anomaly, such as a spot, indicates the presence of a tumor, and if so, its type. A traditional approach involves comparing the image in question with others from textbooks, personal archives or existing databases that contain images of various tumor diagnoses. These databases, often publicly accessible, host thousands of images from tumor patients. However, the challenge lies in the human capacity to analyze a limited number of images and to efficiently identify the most relevant comparisons.

@@ -7,6 +7,8 @@ date = "2023-12-16T12:00:00-00:00"
 ##### Simplifying Contemporary Art Texts and generating new Art and Texts
 <br><br>
 
+*Directly to [GitHub](https://github.com/coztomate/Artspeak_Simplifier)*
+
 #### Introduction
 
 This project investigates International Art English (IAE), a distinctive form of English prevalent in the contemporary art sphere, characterized by its specialized vocabulary and complex structures. It has spurred considerable debate about its accessibility and impact on art communication. We've developed a Streamlit application that adopts a playful and humorous approach to this subject matter. Users are invited to upload press texts and images from contemporary art exhibitions, and the application "simplifies" these into concise sentences. These simplified versions are then used to generate new, elaborate press texts in authentic IAE style. Additionally, the app creates four unique contemporary art images based on these simplifications and the newly formed texts. This development, achieved within a very limited timeframe, leverages the remarkable capabilities of HuggingFace and OpenAI APIs.

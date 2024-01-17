@@ -7,6 +7,8 @@ date = "2023-10-31T12:00:00-00:00"
 ##### The “Richter's Predictor: Modeling Earthquake Damage“ competition 
 <br><br>
 
+*Directly to [GitHub](https://github.com/coztomate/Earthquake_Damage)*
+
 #### Introduction
 
 Engagement in Data Science competitions serves as an effective way to practice analytical competencies, offering exposure to competitive scenarios and an opportunity for skill benchmarking within the community. Driven Data hosts targeted data science competitions with social impact themes, contrasting with Kaggle's broader scope. For our data science curriculum, we formed a three-member team to enter such a competition, facing both internal academic and extensive global competition. This initial foray into data science was constrained by a three-day completion deadline. Despite these constraints, our project was very successful. Our model outperformed our academic peers and placed within the top 5 % of global entries (354th out of 6577, October 2023). The article aims to detail our methodology, outline critical insights, and identify the successful strategies.
