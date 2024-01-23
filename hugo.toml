@@ -4,7 +4,7 @@ title = "Katja Dittrich"
 theme = "hugo-initio"
 
 [params]
-    name = "Dr. Katja Dittrich"
+    name = "Katja Dittrich"
     description = "Data Scientist | Psychologist"
     year = 2024
     avatar = "images/circle.jpg"

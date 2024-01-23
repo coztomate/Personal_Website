@@ -24,7 +24,7 @@ Download my CV here: [Link to pdf](../pdf/cv.pdf)
 
 #### Research Projects
 
-02/2021 – 01/2023: Developmental psychiatry: diagnostic challenges study (DEPSY)
+02/2021 – 05/2023: Developmental psychiatry: diagnostic challenges study (DEPSY)
 
 05/2019 – 05/2023: Understanding and breaking the intergenerational cycle of abuse in families enrolled in routine mental health and welfare services (UBICA-II)
 
